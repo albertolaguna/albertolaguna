@@ -23,4 +23,4 @@ Hello, there! 🤙🏽<br>👨🏽‍💻I'm a software developer.<br>🤖Curren
 ![](https://github-readme-stats.vercel.app/api?username=albertolaguna&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=albertolaguna&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albertolaguna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) <img src="https://rm.up.railway.app/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
