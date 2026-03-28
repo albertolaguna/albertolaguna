@@ -18,25 +18,13 @@
 </p>
 
 <p align="center">
-  <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,ruby,clojure,java&perline=3" />
-  </a>
-  <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,rails&perline=2" />
-  </a>
-  <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue,angular,react,jquery&perline=2" />
-  </a>
-  <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,redis,postgres,kafka&perline=2"/>
-  </a>
-  <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,git,grafana,docker,kubernetes,bash&perline=3"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,ruby,clojure,java&perline=3" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,rails&perline=2" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,jquery&perline=2" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,postgres,kafka&perline=2"/>
+  <img src="https://skillicons.dev/icons?i=aws,git,grafana,docker,kubernetes,bash&perline=3"/>
 </p>
 
 <p align="center">
-  <a target="_blank">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=github_dark&border=true"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=github_dark&border=true"/>
 </p>
