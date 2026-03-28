@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=github_dark&border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?border=true"/>
 </p>
