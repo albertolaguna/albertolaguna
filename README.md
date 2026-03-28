@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,redis,postgres,kafka&perline=2"/>
   </a>
   <a target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws,bash,docker,kubernetes&perline=2"/>
+    <img src="https://skillicons.dev/icons?i=aws,git,grafana,docker,kubernetes,bash&perline=3"/>
   </a>
 </p>
 
