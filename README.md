@@ -37,6 +37,6 @@
 
 <p align="center">
   <a target="_blank">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+    <img src="https://quotes-github-readme.vercel.app/api?theme=github_dark&border=true"/>
   </a>
 </p>
